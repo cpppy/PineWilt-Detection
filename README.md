@@ -23,6 +23,6 @@ python infer_api_onnx.py
 
 📦 Model Weights
 
-Huggingface: to be released !!!
+Huggingface: to be released !!!（https://huggingface.co/UTAI/PineWilt-Detection-SwinT-Small）
 
 
