@@ -16,13 +16,23 @@ PineWilt-Detection 致力于为松材线虫病检测提供开箱即用的推理�
 简易部署指引
 项目面向需要在生产环境快速落地松材线虫病检测模型的开发者、林业技术人员及研究人员，不涉及复杂的训练流程。
 
-🚀 Quick Start
+##### Quick Start
 
-python infer_api_onnx.py
-
-
-📦 Model Weights
-
-Huggingface: to be released !!!（https://huggingface.co/UTAI/PineWilt-Detection-SwinT-Small）
+> python infer_api_onnx.py
 
 
+##### Model Structure
+>backbone: Swin Transformer(small)   
+>detection_head: YOLOX
+
+        
+
+##### Model Weights
+
+Huggingface: already released !!!（https://huggingface.co/UTAI/PineWilt-Detection-SwinT-Small）
+
+
+##### To Be Released
+1. TensorRT Deployment Code
+2. Update backbone to medium/large version of SwinT
+3. Optuna HyperParameters Adjustment Policy for Higher Precision & Recall
