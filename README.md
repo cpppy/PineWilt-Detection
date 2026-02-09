@@ -31,7 +31,8 @@ PineWilt-Detection 致力于为松材线虫病检测提供开箱即用的推理�
 
 ##### Model Weights
 
-Huggingface: already released !!!（https://huggingface.co/UTAI/PineWilt-Detection-SwinT-Small）
+Huggingface: already released !!!
+[https://huggingface.co/UTAI/PineWilt-Detection-SwinT-Small](https://huggingface.co/ReconAI/PineWilt-Detection-SwinT-Small)
 
 
 ##### To Be Released
