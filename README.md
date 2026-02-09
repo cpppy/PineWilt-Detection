@@ -32,6 +32,12 @@ PineWilt-Detection 致力于为松材线虫病检测提供开箱即用的推理�
 Huggingface: already released !!!（https://huggingface.co/UTAI/PineWilt-Detection-SwinT-Small）
 
 
+###### 如果使用中有任何问题，请联系：yeats.hu@gmail.com
+
+
+
+
+
 ##### To Be Released
 1. TensorRT Deployment Code
 2. Update backbone to medium/large version of SwinT
