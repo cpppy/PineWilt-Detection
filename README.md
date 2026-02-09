@@ -16,6 +16,8 @@ PineWilt-Detection 致力于为松材线虫病检测提供开箱即用的推理�
 简易部署指引
 项目面向需要在生产环境快速落地松材线虫病检测模型的开发者、林业技术人员及研究人员，不涉及复杂的训练流程。
 
+###### 如果使用中有任何问题，请联系：yeats.hu@gmail.com
+
 ##### Quick Start
 
 > python infer_api_onnx.py
@@ -30,12 +32,6 @@ PineWilt-Detection 致力于为松材线虫病检测提供开箱即用的推理�
 ##### Model Weights
 
 Huggingface: already released !!!（https://huggingface.co/UTAI/PineWilt-Detection-SwinT-Small）
-
-
-###### 如果使用中有任何问题，请联系：yeats.hu@gmail.com
-
-
-
 
 
 ##### To Be Released
